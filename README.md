@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on MERN Stack & Laravel
 - 🤔 I’m looking for help with Hooks , Yah...React Hooks  :zap:
 - 💬 Ask me about **something funny , lets be friend** :smiley:
-- 📫 How to reach me: :email: ahmatdanis24@gmail.com <img src='https://raw.githubusercontent.com/Maxxoto/Maxxoto/master/telegram.svg' height='20'>@Maxxoto
+- 📫 How to reach me: :email: ahmatdanis24@gmail.com  <img src='https://raw.githubusercontent.com/Maxxoto/Maxxoto/master/telegram.svg' height='20'> @Maxxoto
 - ⚡ Fun fact: I love to eat and traveling :heart:
 
 
