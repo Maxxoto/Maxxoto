@@ -5,8 +5,8 @@
   I work :briefcase: from 9-5PM , and get to the college :book: 6-9PM . 
   
 - 🔭 I’m currently working on [WoroApps](https://github.com/users/Maxxoto/projects/2)
-- 🌱 I’m currently learning :whale: Docker & Microservices
-- 👯 I’m looking to collaborate on MERN Stack & Laravel
+- 🌱 I’m currently learning :email: Message Broker(Kafka/RabbitMQ) & Microservices , I :heart: serverless :smiley:
+- 👯 I’m looking to collaborate on MERN Stack , Laravel , Spring Boot , Anything .
 - 🤔 I’m looking for help with Hooks , Yah...React Hooks  :zap:
 - 💬 Ask me about **something funny , lets be friend** :smiley:
 - 📫 How to reach me: :email: ahmatdanis24@gmail.com  <img src='https://raw.githubusercontent.com/Maxxoto/Maxxoto/master/telegram.svg' height='20'> @Maxxoto
