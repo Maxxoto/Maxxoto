@@ -1,7 +1,7 @@
 ### Hi there  I'm [Maxxoto!](https://maxxoto.github.io)  👋 ![](https://visitor-badge.glitch.me/badge?page_id=maxxoto.maxxoto)
 
 ### Uhmm.. Lets describe a little about me :
-  Hi, I'm Maxxoto , a full time software enginer.<br><br>
+  Hi, I'm Maxxoto , a full time software engineer.<br><br>
   I work :briefcase: from 9-5PM , and get to the college :book: 6-9PM . 
   
 - 🔭 I’m currently working on [WoroApps](https://github.com/users/Maxxoto/projects/2)
