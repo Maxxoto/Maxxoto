@@ -2,7 +2,7 @@
 
 ### Uhmm.. Lets describe a little about me :
   Hi, I'm Maxxoto , a full time software engineer.<br><br>
-  I work :briefcase: from 9-5PM , and get to the college :book: 6-9PM . 
+  Startup Enthusiast
   
 - 🔭 I’m not currently working on any project . 
 - 🌱 I’m currently learning :email: Message Broker(Kafka/RabbitMQ) , Devops(Ansible,Teraform,AWS Cloudformation) , & Microservices Architecture .
