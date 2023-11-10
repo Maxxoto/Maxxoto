@@ -5,9 +5,8 @@
   Startup Enthusiast
   
 - 🔭 I’m not currently working on any project . 
-- 🌱 I’m currently learning :email: Message Broker(Kafka/RabbitMQ) , Devops(Ansible,Teraform,AWS Cloudformation) , & Microservices Architecture .
-- 👯 I’m looking to collaborate on MERN Stack , Laravel , Flutter , Anything .
-- 🤔 I’m looking for help with best practice to manage server cost optimization :zap:
+- 🌱 I’m currently learning :email: Message Broker(Kafka/RabbitMQ) , Devops(Teraform,K8s) , & Microservices .
+- 👯 I’m looking to collaborate on PWA (Ionic & React) , and Backend Microservice (JS) .
 - 💬 Ask me about **something funny , lets be friend** :smiley:
 - 📫 How to reach me: :email: ahmatdanis24@gmail.com  <img src='https://raw.githubusercontent.com/Maxxoto/Maxxoto/master/telegram.svg' height='20'> @Maxxoto
 - ⚡ Fun fact: I love to eat and traveling :heart:
