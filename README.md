@@ -4,7 +4,7 @@
   Hi, I'm Maxxoto , a full time software engineer.<br><br>
   Product & Tech Enthusiast
   
-- 🔭 I’m not currently working on any project . 
+- 🔭 I’m currently researching for my personal chatbot using LLM . 
 - 🌱 I’m currently learning :email: Event Driven & LLM (Focus on [NLP](https://web.stanford.edu/~jurafsky/slp3/ed3bookaug20_2024.pdf))
 - 👯 I’m looking to collaborate on any social impact projects.
 - 📫 How to reach me: :email: hi@maxxoto.dev  <img src='https://raw.githubusercontent.com/Maxxoto/Maxxoto/master/telegram.svg' height='20'> @Maxxoto
