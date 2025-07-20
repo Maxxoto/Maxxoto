@@ -1,10 +1,10 @@
 ### Hi there  I'm [Maxxoto!](https://maxxoto.github.io)  👋 ![](https://visitor-badge.glitch.me/badge?page_id=maxxoto.maxxoto)
 
-### Uhmm.. Lets describe a little about me :
-  Hi, I'm Maxxoto , a full time software engineer.<br><br>
+### Uhmm.. Let's describe a little about me :
+  Hi, I'm Maxxoto, a full-time software engineer.<br><br>
   Product & Tech Enthusiast
   
-- 🔭 I’m currently researching for my personal chatbot using LLM . 
+- 🔭 I’m currently doing some research for my own Personal AI .
 - 🌱 I’m currently learning :email: Event Driven & LLM (Focus on [NLP](https://web.stanford.edu/~jurafsky/slp3/ed3bookaug20_2024.pdf))
 - 👯 I’m looking to collaborate on any social impact projects.
 - 📫 How to reach me: :email: hi@maxxoto.dev  <img src='https://raw.githubusercontent.com/Maxxoto/Maxxoto/master/telegram.svg' height='20'> @Maxxoto
